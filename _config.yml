@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "assets/docs/RESUME.pdf"
   Projects:
-    - Projects: "2019_projects_list/"
+    - Projects: "2019_projects_list"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "assets/docs/RESUME.pdf"
