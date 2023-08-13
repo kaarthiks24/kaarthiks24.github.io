@@ -7,7 +7,7 @@ subtitle: More time spent here would make you like me :)
 My name is Kaarthik Senthil Kumar. I have the following qualities:
 
 - I love python
-- I interested in Data science
+- I am interested in Data science
 
 What else do you need?
 
