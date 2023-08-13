@@ -21,11 +21,11 @@ author: Kaarthik Senthil Kumar
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "kaarthiks24.github.io/assets/docs/RESUME.pdf"
+  Resume: "assets/docs/RESUME.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "assets/docs/RESUME.pdf"
 
 ################
 # --- Logo --- #
