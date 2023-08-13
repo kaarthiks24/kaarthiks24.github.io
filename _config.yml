@@ -21,6 +21,7 @@ author: Kaarthik Senthil Kumar
 
 navbar-links:
   About Me: "aboutme"
+  Resume: "kaarthiks24.github.io/assets/docs/RESUME.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -32,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "assets/img/kaarthik.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,22 +51,18 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "kaarthiks24@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: https://github.com/kaarthiks24
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: www.linkedin.com/in/kaarthik-senthil-kumar
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  mobile: +16092882889
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -81,7 +78,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: One step forward in knowing me !
 
 ###########################
 # --- General options --- #
