@@ -11,7 +11,7 @@ comments: true
 **Compilation of personal and professional projects and learnings**
 
 
-### [National Identity Card Security System with Real-time Facial Recognition](https://github.com/kaarthiks24/kaarthiks24.github.io/blob/master/assets/projects/National%20Identity%20Card%20Security%20System%20with%20Real-time%20Facial%20Recognition.md)
+### [National Identity Card Security System with Real-time Facial Recognition](#assets/projects/National-Identity-Card-Security-System.md)
 
 • Collaborated in a team of two arbitrating project flow and programmed an application to enhance user identity authentication
 • Developed a deep learning model using Convolutional neural network (CNN) and Haar-cascade with an accuracy of 92.3%
