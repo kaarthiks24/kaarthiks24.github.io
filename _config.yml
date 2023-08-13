@@ -22,10 +22,10 @@ author: Kaarthik Senthil Kumar
 navbar-links:
   About Me: "aboutme"
   Resume: "assets/docs/RESUME.pdf"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "assets/docs/RESUME.pdf"
+  # Author's home: "assets/docs/RESUME.pdf"
 
 ################
 # --- Logo --- #
