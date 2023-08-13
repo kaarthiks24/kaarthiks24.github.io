@@ -53,10 +53,10 @@ round-avatar: true
 social-network-links:
   email: "kaarthiks24@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: "https://github.com/kaarthiks24"
+  github: "kaarthiks24"
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/in/kaarthik-senthil-kumar/"
+  linkedin: "kaarthik-senthil-kumar"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
