@@ -24,6 +24,7 @@ navbar-links:
   Resume: "assets/docs/RESUME.pdf"
   Projects:
     - Projects: "2019-10-24-projects-list/"
+    - Publications: "assets/publications"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "assets/docs/RESUME.pdf"
@@ -249,7 +250,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/New York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
