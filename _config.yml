@@ -24,7 +24,7 @@ navbar-links:
   Resume: "assets/docs/RESUME.pdf"
   Projects:
     - Projects: "2019-10-24-projects-list/"
-    - Publications: "assets/publications"
+    - Publications: "assets/publications/Comparitive-analysis-on-SRGAN"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "assets/docs/RESUME.pdf"
