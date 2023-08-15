@@ -20,13 +20,15 @@ author: Kaarthik Senthil Kumar
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resume: "assets/docs/RESUME.pdf"
-  Projects:
+  Highlights:
     - Projects: "2019-10-24-projects-list/"
     - Papers: "assets/publications/Comparitive-analysis-on-SRGAN"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Certifications: 
+  Resume: "assets/docs/RESUME.pdf"
+  About Me: "aboutme"
+  
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "assets/docs/RESUME.pdf"
 
 ################
