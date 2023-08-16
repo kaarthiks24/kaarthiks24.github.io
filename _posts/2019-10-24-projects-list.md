@@ -15,7 +15,7 @@ comments: true
 
 ![Aadhar]("https://kaarthiks24.github.io/assets/projects/Aadhaar_face_Recognition.jpg")
 
-### [IOT-Based Driver Drowsiness Detection System]({{ site.baseurl }}/assets/projects/Driver_Drowsiness_detection_system.md)
+### [IOT-Based Driver Drowsiness Detection System]({{ site.baseurl }}/assets/projects/Driver_Drowsiness_detection_system)
 
 ![Driver]("https://kaarthiks24.github.io/assets/projects/driver_drowsiness.jpeg")
 
