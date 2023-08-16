@@ -14,4 +14,4 @@ subtitle: Keep Learning !
 
 ### [Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]](https://www.udemy.com/certificate/UC-33645bda-8f59-46e9-9fac-4de28ce88291/)
 
-![Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]](assets/certification/UC-33645bda-8f59-46e9-9fac-4de28ce88291.jpg)
+![Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]](https://kaarthiks24.github.io/assets/certification/UC-33645bda-8f59-46e9-9fac-4de28ce88291.jpg)
