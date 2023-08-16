@@ -13,11 +13,12 @@ comments: true
 
 ### [National Identity Card Security System with Real-time Facial Recognition]({{ site.baseurl }}/assets/projects/National-Identity-Card-Security-System)
 
-![Aadhar]("https://kaarthiks24.github.io/assets/projects/Aadhaar_face_Recognition.jpg")
+![Aadhar](https://kaarthiks24.github.io/assets/projects/Aadhaar_face_Recognition.jpg)
 
 ### [IOT-Based Driver Drowsiness Detection System]({{ site.baseurl }}/assets/projects/Driver_Drowsiness_detection_system)
 
-![Driver]("https://kaarthiks24.github.io/assets/projects/driver_drowsiness.jpeg")
+![Driver](https://kaarthiks24.github.io/assets/projects/driver_drowsiness.jpeg)
+
 
 
 ### Automatic Gas Leak Detection and Level Monitoring System using Arduino
