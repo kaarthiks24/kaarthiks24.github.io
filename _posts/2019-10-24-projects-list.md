@@ -13,20 +13,12 @@ comments: true
 
 ### [National Identity Card Security System with Real-time Facial Recognition]({{ site.baseurl }}/assets/projects/National-Identity-Card-Security-System)
 
+![Aadhar]("https://kaarthiks24.github.io/assets/projects/Aadhaar_face_Recognition.jpg)
 
-• Collaborated in a team of two arbitrating project flow and programmed an application to enhance user identity authentication
-• Developed a deep learning model using Convolutional neural network (CNN) and Haar-cascade with an accuracy of 92.3%
-• Surpassed offline verification issue by modeling the application as Software as a Service (SAAS) working on both online and offline
-• Implemented the project in Tkinter framework and hosted it in Firebase
-• Received highest grade among 100 teams in university
-• Collaborated in a team of two arbitrating project flow and programmed an application to enhance user identity authentication • Developed a deep learning model using Convolutional neural network (CNN) and Haar-cascade with an accuracy of 92.3% • Surpassed offline verification issue by modeling the application as Software as a Service (SAAS) working on both online and offline • Implemented the project in Tkinter framework and hosted it in Firebase • Received highest grade among 100 teams in university
+### [IOT-Based Driver Drowsiness Detection System]({{ site.baseurl }}/assets/projects/Driver_Drowsiness_detection_system.md)
 
+![Driver]("https://kaarthiks24.github.io/assets/projects/driver_drowsiness.jpeg")
 
-### IOT-Based Driver Drowsiness Detection System
-
-• Involved in a team of three and built a real-time driver's drowsiness alert system. Engineered solution on Raspberry pi platform
-• Formulated an Machine learning algorithm with Eye-aspect ratio (EAR) and Frontal Haar (Open CV)
-• Modeled a system loading the ML algorithm in the IOT device and hosted in AWS EC2
 
 ### Automatic Gas Leak Detection and Level Monitoring System using Arduino
 
