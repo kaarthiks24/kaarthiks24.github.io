@@ -10,6 +10,9 @@ comments: true
 
 **Compilation of personal and professional projects and learnings**
 
+### [Credit Card Transactions Fraud Detection System]({{ site.baseurl }}/assets/projects/National-Identity-Card-Security-System)
+
+![Credit Card Transactions](https://kaarthiks24.github.io/assets/projects/credit_card_fraud.png)
 
 ### [National Identity Card Security System with Real-time Facial Recognition]({{ site.baseurl }}/assets/projects/National-Identity-Card-Security-System)
 
@@ -28,12 +31,4 @@ comments: true
 • Utilized the MMS to facilitate notification based alerts when gas leakage is diagnosed.
 
 
-### A Full-Stack E-commerce Website
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-• Built a full stack website with Django as backend and REACT as front end. Wrote API to connect between back and frontend
-• Created a Mongo DB to handle all the unstructured data
-• Added payment gateway to expedite the orders
-• Conceptualized the need for a medium for buying and selling goods from various vendors and customers as an E-commerce website
  
