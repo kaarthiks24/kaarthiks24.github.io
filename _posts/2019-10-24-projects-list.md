@@ -10,7 +10,7 @@ comments: true
 
 **Compilation of personal and professional projects and learnings**
 
-### [Credit Card Transactions Fraud Detection System]({{ site.baseurl }}/assets/projects/National-Identity-Card-Security-System)
+### [Credit Card Transactions Fraud Detection System]({{ site.baseurl }}/assets/projects/Credit_card_transaction_fraud)
 
 ![Credit Card Transactions](https://kaarthiks24.github.io/assets/projects/credit_card_fraud.png)
 
