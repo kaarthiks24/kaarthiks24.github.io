@@ -8,7 +8,7 @@ tags: [data science]
 comments: true
 ---
 
-**Compilation of personal and professional projects and learnings**
+**Compilation of certifications gained**
 ### [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/kaarthiksenthilkumar-1154/credentials/d00acd865b526346?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ![Microsoft Certified: Azure AI Fundamentals](https://kaarthiks24.github.io/assets/certification/azure.png)
